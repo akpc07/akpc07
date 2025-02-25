@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ AKSHAY PRAMOD C
-- 🌱 I’m currently learning Manual Testing
+- 🌱 I’m currently learning Data Science With Gen-AI
 - 📫 reach me on akshaypramod50@gmail.com
 
 <!---
